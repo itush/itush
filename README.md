@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi there 👋 my name is Tushar Biswas
 
-<!--
-**itush/itush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am passionate about building applications that solve real-world problems and create meaningful experiences.
 
-Here are some ideas to get you started:
+### 🔭 I’m currently working on 
+https://pagexpress.vercel.app/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 I’m currently exploring 
+BaaS technologies to enhance the scalability and efficiency of my projects.
+
+### 💬 Ask me about
+- HTML, CSS, JavaScript,
+- Tailwind CSS,
+- TypeScript,
+- React & Next.js,
+- Node.js & Express,
+- MongoDB
+### 📫 How to reach me: ...
+
+### ⚡ Fun fact
+I'm in a love-hate relationship with bugs and I talk to my screen...
+
