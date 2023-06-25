@@ -2,7 +2,7 @@
 
 I am passionate about building applications that solve real-world problems and create meaningful experiences.
 
-I :heart: to read books, play chess, write on [Hshnode](https://tusharthe.hashnode.dev/), give feedback on [Frontend Mentor](https://www.frontendmentor.io/profile/itush) and spend countless hours debugging "Someting Went Wrong!"
+I :heart: to read books, play chess, write on [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://tusharthe.hashnode.dev/), give feedback on [Frontend Mentor](https://www.frontendmentor.io/profile/itush) and spend countless hours debugging "Someting Went Wrong!"
 
 ### 🔭 I’m currently working on 
 
@@ -18,6 +18,8 @@ BaaS technologies to enhance the scalability and efficiency of my projects.
 - ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) & ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 - ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) & ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 - ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itush&theme=radical)
 
 ### ⚡ Fun fact
 I'm in a love-hate relationship with bugs and I talk to my screen...
