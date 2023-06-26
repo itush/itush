@@ -1,4 +1,4 @@
-# Hi there 👋 my name is Tushar Biswas
+# Hi 👋 my name is Tushar Biswas
 
 I am passionate about building applications that solve real-world problems and create meaningful experiences.
 
@@ -24,3 +24,5 @@ BaaS technologies to enhance the scalability and efficiency of my projects.
 ### ⚡ Fun fact
 I'm in a love-hate relationship with bugs and I talk to my screen...
 
+### 🔗 Miscellaneous
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/tusharthe) if I was able to help you in someway. 
