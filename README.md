@@ -25,4 +25,6 @@ BaaS technologies to enhance the scalability and efficiency of my projects.
 I'm in a love-hate relationship with bugs and I talk to my screen...
 
 ### 🔗 Miscellaneous
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/tusharthe) if I was able to help you in someway. 
+- To book 1:1 session, ask your doubts wrtite to [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itusharbiswas@gmail.com)
+
+- [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/tusharthe) if I was able to help you 😁 
