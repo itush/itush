@@ -2,7 +2,7 @@
 
 I am passionate about building applications that solve real-world problems and create meaningful experiences.
 
-I :heart: to read books, play ♞, make [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@tocodenjoy) videos, write on [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://tusharthe.hashnode.dev/), give feedback on [Frontend Mentor](https://www.frontendmentor.io/profile/itush) roast LPs on [IH](https://www.indiehackers.com/tusharthe) and spend countless hours debugging "Someting Went Wrong!"
+I :heart: to read books, play ♞, make [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@tocodenjoy) videos, write on [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://tusharthe.hashnode.dev/), give feedback on [Frontend Mentor](https://www.frontendmentor.io/profile/itush), roast LPs on [IH](https://www.indiehackers.com/tusharthe) and spend countless hours debugging "Someting Went Wrong!"
 
 ### 🔭 I’m currently working on 
 
