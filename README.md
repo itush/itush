@@ -6,7 +6,7 @@ I :heart: to read books, play ♞, make [![YouTube](https://img.shields.io/badge
 
 ### 🔭 I’m currently working on 
 
-[PageXpress](https://pagexpress.vercel.app/) where you can keep a record of everything you read, in one place.
+[Self-reliant](https://selfreliant.vercel.app/) where you can keep a record of everything you read, in one place.
 
 ### 🌱 I’m currently exploring 
 BaaS technologies to enhance the scalability and efficiency of my projects.
