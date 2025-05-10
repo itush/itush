@@ -6,7 +6,7 @@ I :heart: to read books, play ♞, make [![YouTube](https://img.shields.io/badge
 
 ### 🔭 I’m currently working on 
 
-[Self-reliant](https://selfreliant.vercel.app/) where you can keep a record of everything you read, in one place.
+[Self-reliant](https://selfreliant.vercel.app/) —an interactive, people-first platform, that encourages all of us to be more self-reliant.
 
 ### 🌱 I’m currently exploring 
 BaaS technologies to enhance the scalability and efficiency of my projects.
